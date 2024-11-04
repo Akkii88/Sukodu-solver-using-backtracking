@@ -1,7 +1,3 @@
-Here's a description you can use for your GitHub repository containing the Sudoku solver code:
-
----
-
 # Sudoku Solver
 
 This project implements a Sudoku solver in Python, demonstrating the use of backtracking algorithms to solve classic Sudoku puzzles. The solver efficiently finds solutions for a given Sudoku board, represented as a 2D list, where empty cells are denoted by zeros.
@@ -50,6 +46,3 @@ else:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to modify any sections to better fit your project or personal style!
